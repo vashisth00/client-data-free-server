@@ -2,7 +2,7 @@
 title: 'Combines Design With Nature'
 category: 'commercial'
 date: '2022-01-12'
-image: combines.jpg
+image: https://rustic-react.netlify.app/_next/image?url=%2Fimages%2Fprojects%2Fchobham-manor-masterplan%2F1.jpg&w=1200&q=75
 excerpt: Commercial
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson

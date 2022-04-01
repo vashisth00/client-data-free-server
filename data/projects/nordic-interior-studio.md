@@ -2,7 +2,7 @@
 title: 'Nordic Interior Studio'
 category: 'residenital'
 date: '2022-01-12'
-image: nordic.jpg
+image: https://rustic-react.netlify.app/_next/image?url=%2Fimages%2Fprojects%2Fchobham-manor-masterplan%2F1.jpg&w=1200&q=75
 excerpt: Copper Brass
 location: Calle Blancos, Costa Rica
 clientName: Alex Stinson

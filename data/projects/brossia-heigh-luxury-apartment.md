@@ -2,7 +2,7 @@
 title: 'Brossia Heigh Luxury Apartment'
 category: 'residenital'
 date: '2022-01-12'
-image: brossia.jpg
+image: https://rustic-react.netlify.app/_next/image?url=%2Fimages%2Fprojects%2Fchobham-manor-masterplan%2F1.jpg&w=1200&q=75
 excerpt: Residenital
 location: Calle Blancos, Costa Rica
 clientName: Edna Smith
